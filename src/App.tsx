@@ -10,7 +10,7 @@ function App() {
       </h2>
       <div className='p-4 flex flex-row'>
         <img
-          src='./public/chess-base.jpeg'
+          src='/chess-base.jpeg'
           alt='Girl playing chess'
           width='400'
           height='400'
